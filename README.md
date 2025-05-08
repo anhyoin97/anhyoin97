@@ -33,6 +33,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ---
 ### 📫 Contacts
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kjr04205)](https://velog.io/@kjr04205)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=github&logoColor=white)](https://anhyoin97.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahi1105@kakao.com)](mailto:ahi1105@kakao.com)
 ---
