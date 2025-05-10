@@ -1,0 +1,15 @@
+name: 📚 블로그 최신글 자동 업데이트
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 6시간마다 실행
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://anhyoin97.github.io/feed.xml"
