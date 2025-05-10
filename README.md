@@ -48,6 +48,11 @@
 ---
 ### 📝 My Recently Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot API 설계에서의 Entity와 DTO](https://anhyoin97.github.io/posts/Entity-DTO/)
+- [토이프로젝트를 마치며](https://anhyoin97.github.io/posts/project-11/)
+- [10일차 Vue 3 Pinia 적용, 로그인 상태 관리](https://anhyoin97.github.io/posts/project-10/)
+- [9일차 로그인 화면 기능 구현, 전체 컴포넌트 권한 로직 적용](https://anhyoin97.github.io/posts/project-09/)
+- [JPA vs MyBatis 어떤 걸 써야할까?](https://anhyoin97.github.io/posts/JPA-Mybatis/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ### 📫 Contacts
