@@ -1,8 +1,3 @@
-## ⭐️ Previous GitHub Address
-<a href="https://github.com/kjr04205" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="100"/>
-</a>
-
 ## 💡 Tech Stack
 
 ### 🖥️ Front-End
@@ -38,7 +33,7 @@
 ### 🔍 Recently Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhyoin97&layout=compact&theme=gruvbox)
 ---
-### 🚀 My Projects
+## 🚀 My Projects
 
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
@@ -46,7 +41,7 @@
 | [MES 시스템](https://github.com/anhyoin97/mes-view) | 생산 설비/실적 관리 및 시각화 | Java, Spring Boot, Vue3, MySQL |
 | [인사/물류 Management 시스템](https://github.com/anhyoin97/Management) | 인사, 물류 관리 시스템 | Java, Spring, MySQL |
 ---
-### 📝 My Recently Blog Post
+## 📝 My Recently Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot API 설계에서의 Entity와 DTO](https://anhyoin97.github.io/posts/Entity-DTO/)
 - [토이프로젝트를 마치며](https://anhyoin97.github.io/posts/project-11/)
@@ -55,8 +50,12 @@
 - [JPA vs MyBatis 어떤 걸 써야할까?](https://anhyoin97.github.io/posts/JPA-Mybatis/)
 <!-- BLOG-POST-LIST:END -->
 ---
-### 📫 Contacts
+## 📫 Contacts
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=github&logoColor=white)](https://anhyoin97.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahi1105@kakao.com)](mailto:ahi1105@kakao.com)
 
+## ⭐️ Previous GitHub Address
+<a href="https://github.com/kjr04205" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="100"/>
+</a>
 
