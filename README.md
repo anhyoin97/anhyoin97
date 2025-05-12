@@ -37,7 +37,6 @@
 
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
-| [마음한줄](https://github.com/anhyoin97/emotional-analysis-ai) | 감정 일기를 분석하고 위로하는 플랫폼 | Python, Flask, OpenAI |
 | [MES 시스템](https://github.com/anhyoin97/mes-view) | 생산 설비/실적 관리 및 시각화 | Java, Spring Boot, Vue3, MySQL |
 | [인사/물류 Management 시스템](https://github.com/anhyoin97/Management) | 인사, 물류 관리 시스템 | Java, Spring, MySQL |
 ---
