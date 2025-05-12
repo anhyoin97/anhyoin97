@@ -33,10 +33,12 @@
 ### 🔍 Recently Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhyoin97&layout=compact&theme=gruvbox)
 ---
-## 🚀 My Projects
+
+## 🚀 Personal Dev logs
 
 | 프로젝트 | 설명 | 기술스택 |
 |----------|------|----------|
+| [감정 분석 웹앱](https://github.com/anhyoin97/emotional-analysis-ai) | 표정분석과 감정일기를 통한 감정 분석 및 위로 프로토타입 | Flask, face-api.js, OpenAI API |
 | [MES 시스템](https://github.com/anhyoin97/mes-view) | 생산 설비/실적 관리 및 시각화 | Java, Spring Boot, Vue3, MySQL |
 | [인사/물류 Management 시스템](https://github.com/anhyoin97/Management) | 인사, 물류 관리 시스템 | Java, Spring, MySQL |
 ---
@@ -47,6 +49,6 @@
 
 ## ⭐️ Previous GitHub Address
 <a href="https://github.com/kjr04205" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="70"/>
 </a>
 
