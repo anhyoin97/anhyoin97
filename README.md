@@ -47,8 +47,4 @@
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=github&logoColor=white)](https://anhyoin97.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahi1105@kakao.com)](mailto:ahi1105@kakao.com)
 
-## ⭐️ Previous GitHub Address
-<a href="https://github.com/kjr04205" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" width="70"/>
-</a>
 
